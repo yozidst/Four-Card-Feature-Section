@@ -37,7 +37,7 @@ body {
 
 main {
     background-color: var(--color-very-light-gray);
-    min-height: 105vh;
+    min-height: 100vh;
 }
 
 .container {
@@ -93,7 +93,7 @@ h2 {
     border-radius: 8px;
     background: #fff;
     padding: 28px;
-    box-shadow: -10px 12px 30px -12px var(--color-box-shadow);
+    box-shadow: -4px 12px 30px -12px var(--color-box-shadow);
 }
 
 .domain-title {
