@@ -80,13 +80,6 @@ h2 {
     font-weight: var(--fw-bold);
 }
 
-.exterior-cols,
-.mid-col {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-}
-
 .card {
     margin: 0;
     max-width: 350px;
